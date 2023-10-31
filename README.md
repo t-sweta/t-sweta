@@ -1,4 +1,4 @@
-# sweta-shreya
+# Hi I am Sweta Shreya
 # 💫 About Me:
 A Passionate frontend developer from India, learning and working on various technologies.
 
